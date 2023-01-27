@@ -1,5 +1,5 @@
 body{
-    background-color: coral;
+    background-image: url("shan.png");
     padding: 0;
     margin: 0;
 }
@@ -15,7 +15,7 @@ body{
 
 }
 .center{
-    background-color: #000;
+    background-color: black;
     position: absolute;
     left: calc(50% - 10px);
     top:  calc(50% - 10px);
